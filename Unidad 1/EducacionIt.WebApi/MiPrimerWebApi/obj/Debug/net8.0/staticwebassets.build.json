@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "F+BdlaqLmmBz6DQMiNP9j4U2Nk2pE1Cjs12Ga4R3IxA=",
+  "Source": "MiPrimerWebApi",
+  "BasePath": "_content/MiPrimerWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
