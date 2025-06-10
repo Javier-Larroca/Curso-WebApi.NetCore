@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Unidad 1\\EducacionIt.WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\unidad 1\\educacionit.webapi\\miprimerwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\unidad 1\\educacionit.webapi\\miprimerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\unidad 1\\educacionit.webapi\\miprimerwebapi\\miprimerwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\miprimerwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\unidad 1\\educacionit.webapi\\miprimerwebapi\\routes\\valuesroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\routes\\valuesroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\unidad 1\\educacionit.webapi\\miprimerwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Unidad 1\\EducacionIt.WebApi\\MiPrimerWebApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "MiPrimerWebApi\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Unidad 1\\EducacionIt.WebApi\\MiPrimerWebApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "MiPrimerWebApi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Unidad 1\\EducacionIt.WebApi\\MiPrimerWebApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MiPrimerWebApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Unidad 1\\EducacionIt.WebApi\\MiPrimerWebApi\\WeatherForecast.cs",
+              "RelativeToolTip": "MiPrimerWebApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T21:04:15.315Z",
+              "WhenOpened": "2025-06-10T18:33:11.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ValuesRoute.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Unidad 1\\EducacionIt.WebApi\\MiPrimerWebApi\\Routes\\ValuesRoute.cs",
+              "RelativeDocumentMoniker": "MiPrimerWebApi\\Routes\\ValuesRoute.cs",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Unidad 1\\EducacionIt.WebApi\\MiPrimerWebApi\\Routes\\ValuesRoute.cs",
+              "RelativeToolTip": "MiPrimerWebApi\\Routes\\ValuesRoute.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:54:59.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Unidad 1\\EducacionIt.WebApi\\MiPrimerWebApi\\Program.cs",
               "RelativeDocumentMoniker": "MiPrimerWebApi\\Program.cs",
               "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Unidad 1\\EducacionIt.WebApi\\MiPrimerWebApi\\Program.cs",
               "RelativeToolTip": "MiPrimerWebApi\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T21:04:04.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MiPrimerWebApi.http",
-              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Unidad 1\\EducacionIt.WebApi\\MiPrimerWebApi\\MiPrimerWebApi.http",
-              "RelativeDocumentMoniker": "MiPrimerWebApi\\MiPrimerWebApi.http",
-              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Unidad 1\\EducacionIt.WebApi\\MiPrimerWebApi\\MiPrimerWebApi.http",
-              "RelativeToolTip": "MiPrimerWebApi\\MiPrimerWebApi.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-06-09T21:03:33.465Z",
               "EditorCaption": ""
             }
           ]

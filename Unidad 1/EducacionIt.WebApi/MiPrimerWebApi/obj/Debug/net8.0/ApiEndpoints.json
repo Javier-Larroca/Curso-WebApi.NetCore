@@ -1,5 +1,226 @@
 [
   {
+    "ContainingType": "MiPrimerWebApi.Controllers.ValuesController",
+    "Method": "Get",
+    "RelativePath": "api/Values",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MiPrimerWebApi.Controllers.ValuesController",
+    "Method": "Post",
+    "RelativePath": "api/Values",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MiPrimerWebApi.Controllers.ValuesController",
+    "Method": "GetOne",
+    "RelativePath": "api/Values/{indice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "indice",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MiPrimerWebApi.Controllers.ValuesController",
+    "Method": "Put",
+    "RelativePath": "api/Values/{indice}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "indice",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MiPrimerWebApi.Controllers.ValuesController",
+    "Method": "Delete",
+    "RelativePath": "api/Values/{indice}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "indice",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiPrimerWebApi.Routes.ValuesRoute",
+    "Method": "Get",
+    "RelativePath": "minimalValues/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Minimal Values"
+    ]
+  },
+  {
+    "ContainingType": "MiPrimerWebApi.Routes.ValuesRoute",
+    "Method": "Post",
+    "RelativePath": "minimalValues/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Minimal Values"
+    ]
+  },
+  {
+    "ContainingType": "MiPrimerWebApi.Routes.ValuesRoute",
+    "Method": "GetOne",
+    "RelativePath": "minimalValues/{indice}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "indice",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Minimal Values"
+    ]
+  },
+  {
+    "ContainingType": "MiPrimerWebApi.Routes.ValuesRoute",
+    "Method": "Put",
+    "RelativePath": "minimalValues/{indice}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "indice",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Minimal Values"
+    ]
+  },
+  {
+    "ContainingType": "MiPrimerWebApi.Routes.ValuesRoute",
+    "Method": "Delete",
+    "RelativePath": "minimalValues/{indice}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "indice",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Minimal Values"
+    ]
+  },
+  {
     "ContainingType": "MiPrimerWebApi.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
