@@ -1,3 +1,3 @@
 # Curso-WebApi.NetCore
 
-Comenzado el 05/11/2024
+Comenzado el 09/06/2025
