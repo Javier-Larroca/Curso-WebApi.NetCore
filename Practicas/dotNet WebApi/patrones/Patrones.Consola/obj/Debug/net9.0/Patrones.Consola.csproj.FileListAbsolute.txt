@@ -1,0 +1,15 @@
+c:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\dotNet WebApi\patrones\Patrones.Consola\bin\Debug\net9.0\Patrones.Consola.exe
+c:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\dotNet WebApi\patrones\Patrones.Consola\bin\Debug\net9.0\Patrones.Consola.deps.json
+c:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\dotNet WebApi\patrones\Patrones.Consola\bin\Debug\net9.0\Patrones.Consola.runtimeconfig.json
+c:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\dotNet WebApi\patrones\Patrones.Consola\bin\Debug\net9.0\Patrones.Consola.dll
+c:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\dotNet WebApi\patrones\Patrones.Consola\bin\Debug\net9.0\Patrones.Consola.pdb
+c:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\dotNet WebApi\patrones\Patrones.Consola\obj\Debug\net9.0\Patrones.Consola.GeneratedMSBuildEditorConfig.editorconfig
+c:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\dotNet WebApi\patrones\Patrones.Consola\obj\Debug\net9.0\Patrones.Consola.AssemblyInfoInputs.cache
+c:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\dotNet WebApi\patrones\Patrones.Consola\obj\Debug\net9.0\Patrones.Consola.AssemblyInfo.cs
+c:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\dotNet WebApi\patrones\Patrones.Consola\obj\Debug\net9.0\Patrones.Consola.csproj.CoreCompileInputs.cache
+c:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\dotNet WebApi\patrones\Patrones.Consola\obj\Debug\net9.0\Patrones.Consola.sourcelink.json
+c:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\dotNet WebApi\patrones\Patrones.Consola\obj\Debug\net9.0\Patrones.Consola.dll
+c:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\dotNet WebApi\patrones\Patrones.Consola\obj\Debug\net9.0\refint\Patrones.Consola.dll
+c:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\dotNet WebApi\patrones\Patrones.Consola\obj\Debug\net9.0\Patrones.Consola.pdb
+c:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\dotNet WebApi\patrones\Patrones.Consola\obj\Debug\net9.0\Patrones.Consola.genruntimeconfig.cache
+c:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\dotNet WebApi\patrones\Patrones.Consola\obj\Debug\net9.0\ref\Patrones.Consola.dll

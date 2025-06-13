@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\dotNet WebApi\\patrones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C85EED13-753F-40E9-AE79-3158D2304DCD}|Patrones.Worker\\Patrones.Worker.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\dotnet webapi\\patrones\\patrones.worker\\serviciotransient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85EED13-753F-40E9-AE79-3158D2304DCD}|Patrones.Worker\\Patrones.Worker.csproj|solutionrelative:patrones.worker\\serviciotransient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC1674F-F499-4FE3-B9E1-B14CD104F577}|Patrones.Api\\Patrones.Api.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\dotnet webapi\\patrones\\patrones.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC1674F-F499-4FE3-B9E1-B14CD104F577}|Patrones.Api\\Patrones.Api.csproj|solutionrelative:patrones.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85EED13-753F-40E9-AE79-3158D2304DCD}|Patrones.Worker\\Patrones.Worker.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\dotnet webapi\\patrones\\patrones.worker\\servicioscoped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85EED13-753F-40E9-AE79-3158D2304DCD}|Patrones.Worker\\Patrones.Worker.csproj|solutionrelative:patrones.worker\\servicioscoped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85EED13-753F-40E9-AE79-3158D2304DCD}|Patrones.Worker\\Patrones.Worker.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\dotnet webapi\\patrones\\patrones.worker\\serviciosingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85EED13-753F-40E9-AE79-3158D2304DCD}|Patrones.Worker\\Patrones.Worker.csproj|solutionrelative:patrones.worker\\serviciosingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC1674F-F499-4FE3-B9E1-B14CD104F577}|Patrones.Api\\Patrones.Api.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\dotnet webapi\\patrones\\patrones.api\\servicios\\serviciosingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC1674F-F499-4FE3-B9E1-B14CD104F577}|Patrones.Api\\Patrones.Api.csproj|solutionrelative:patrones.api\\servicios\\serviciosingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC1674F-F499-4FE3-B9E1-B14CD104F577}|Patrones.Api\\Patrones.Api.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\dotnet webapi\\patrones\\patrones.api\\servicios\\servicioscoped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC1674F-F499-4FE3-B9E1-B14CD104F577}|Patrones.Api\\Patrones.Api.csproj|solutionrelative:patrones.api\\servicios\\servicioscoped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC1674F-F499-4FE3-B9E1-B14CD104F577}|Patrones.Api\\Patrones.Api.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\dotnet webapi\\patrones\\patrones.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC1674F-F499-4FE3-B9E1-B14CD104F577}|Patrones.Api\\Patrones.Api.csproj|solutionrelative:patrones.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC1674F-F499-4FE3-B9E1-B14CD104F577}|Patrones.Api\\Patrones.Api.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\dotnet webapi\\patrones\\patrones.api\\servicios\\serviciotransient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC1674F-F499-4FE3-B9E1-B14CD104F577}|Patrones.Api\\Patrones.Api.csproj|solutionrelative:patrones.api\\servicios\\serviciotransient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicioTransient.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\dotNet WebApi\\patrones\\Patrones.Worker\\ServicioTransient.cs",
+              "RelativeDocumentMoniker": "Patrones.Worker\\ServicioTransient.cs",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\dotNet WebApi\\patrones\\Patrones.Worker\\ServicioTransient.cs",
+              "RelativeToolTip": "Patrones.Worker\\ServicioTransient.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:37:58.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicioScoped.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\dotNet WebApi\\patrones\\Patrones.Worker\\ServicioScoped.cs",
+              "RelativeDocumentMoniker": "Patrones.Worker\\ServicioScoped.cs",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\dotNet WebApi\\patrones\\Patrones.Worker\\ServicioScoped.cs",
+              "RelativeToolTip": "Patrones.Worker\\ServicioScoped.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:37:57.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicioSingleton.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\dotNet WebApi\\patrones\\Patrones.Worker\\ServicioSingleton.cs",
+              "RelativeDocumentMoniker": "Patrones.Worker\\ServicioSingleton.cs",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\dotNet WebApi\\patrones\\Patrones.Worker\\ServicioSingleton.cs",
+              "RelativeToolTip": "Patrones.Worker\\ServicioSingleton.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:37:54.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\dotNet WebApi\\patrones\\Patrones.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Patrones.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\dotNet WebApi\\patrones\\Patrones.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Patrones.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:33:24.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServicioTransient.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\dotNet WebApi\\patrones\\Patrones.Api\\Servicios\\ServicioTransient.cs",
+              "RelativeDocumentMoniker": "Patrones.Api\\Servicios\\ServicioTransient.cs",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\dotNet WebApi\\patrones\\Patrones.Api\\Servicios\\ServicioTransient.cs",
+              "RelativeToolTip": "Patrones.Api\\Servicios\\ServicioTransient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:32:54.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicioSingleton.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\dotNet WebApi\\patrones\\Patrones.Api\\Servicios\\ServicioSingleton.cs",
+              "RelativeDocumentMoniker": "Patrones.Api\\Servicios\\ServicioSingleton.cs",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\dotNet WebApi\\patrones\\Patrones.Api\\Servicios\\ServicioSingleton.cs",
+              "RelativeToolTip": "Patrones.Api\\Servicios\\ServicioSingleton.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:32:45.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicioScoped.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\dotNet WebApi\\patrones\\Patrones.Api\\Servicios\\ServicioScoped.cs",
+              "RelativeDocumentMoniker": "Patrones.Api\\Servicios\\ServicioScoped.cs",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\dotNet WebApi\\patrones\\Patrones.Api\\Servicios\\ServicioScoped.cs",
+              "RelativeToolTip": "Patrones.Api\\Servicios\\ServicioScoped.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:27:33.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\dotNet WebApi\\patrones\\Patrones.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Patrones.Api\\Program.cs",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\dotNet WebApi\\patrones\\Patrones.Api\\Program.cs",
+              "RelativeToolTip": "Patrones.Api\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:28:12.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

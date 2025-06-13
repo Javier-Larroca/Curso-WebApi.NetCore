@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Patrones.Worker
+{
+    public interface IServicioScoped
+    {
+        void DoWork();
+    }
+
+    public class ServicioScoped : IServicioScoped
+    {
+        private readonly ILogger<ServicioScoped> logger;
+
+        public Guid Id { get; set; }
+
+        public ServicioScoped(ILogger<ServicioScoped> logger)
+        {
+            this.logger = logger;
+            Id = Guid.NewGuid();
+        }
+
+        public void DoWork()
+        {
+            logger.LogInformation($"Escribiendo desde el Scoped {Id}");
+        }
+    }
+}
