@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lDWmefCo3pI=",
+  "dgSpecHash": "iHvs/XwWr9A=",
   "success": true,
-  "projectFilePath": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Unidad 1\\MiSegundaWebApi\\MiSegundaWebApi\\MiSegundaWebApi.csproj",
+  "projectFilePath": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\MiSegundaWebApi\\MiSegundaWebApi\\MiSegundaWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\javie\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
     "C:\\Users\\javie\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"

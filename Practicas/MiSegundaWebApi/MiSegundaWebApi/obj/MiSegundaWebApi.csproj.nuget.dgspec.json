@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Unidad 1\\MiSegundaWebApi\\MiSegundaWebApi\\MiSegundaWebApi.csproj": {}
+    "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\MiSegundaWebApi\\MiSegundaWebApi\\MiSegundaWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Unidad 1\\MiSegundaWebApi\\MiSegundaWebApi\\MiSegundaWebApi.csproj": {
+    "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\MiSegundaWebApi\\MiSegundaWebApi\\MiSegundaWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Unidad 1\\MiSegundaWebApi\\MiSegundaWebApi\\MiSegundaWebApi.csproj",
+        "projectUniqueName": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\MiSegundaWebApi\\MiSegundaWebApi\\MiSegundaWebApi.csproj",
         "projectName": "MiSegundaWebApi",
-        "projectPath": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Unidad 1\\MiSegundaWebApi\\MiSegundaWebApi\\MiSegundaWebApi.csproj",
+        "projectPath": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\MiSegundaWebApi\\MiSegundaWebApi\\MiSegundaWebApi.csproj",
         "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Unidad 1\\MiSegundaWebApi\\MiSegundaWebApi\\obj\\",
+        "outputPath": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\MiSegundaWebApi\\MiSegundaWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

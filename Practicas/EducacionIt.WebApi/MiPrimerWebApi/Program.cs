@@ -1,9 +1,19 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using MiPrimerWebApi.Contexto;
 using MiPrimerWebApi.Routes;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+builder.Services.AddDbContext<BibliotecaDbContext>(
+    options => options.UseSqlServer(builder.Configuration.GetConnectionString("BibliotecaConnectionString"))
+    );
+
+builder.Services.AddDbContext<TodoDbContext>(
+    options => options.UseSqlServer(builder.Configuration.GetConnectionString("TodoConnectionString"))
+    );
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -26,5 +36,7 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.MapValuesRoutes();
+
+app.MapTodosRoutes();
 
 app.Run();
