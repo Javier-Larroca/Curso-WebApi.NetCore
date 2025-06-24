@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "MiPrimerWebApi.Controllers.AutoresController",
+    "ContainingType": "MiPrimerWebApi.Api.Controllers.AutoresController",
     "Method": "GetAutores",
     "RelativePath": "api/Autores",
     "HttpMethod": "GET",
@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[MiPrimerWebApi.Entidades.Autor, MiPrimerWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MiPrimerWebApi.Model.Autor, MiPrimerWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "ContainingType": "MiPrimerWebApi.Controllers.AutoresController",
+    "ContainingType": "MiPrimerWebApi.Api.Controllers.AutoresController",
     "Method": "PostAutor",
     "RelativePath": "api/Autores",
     "HttpMethod": "POST",
@@ -29,13 +29,13 @@
     "Parameters": [
       {
         "Name": "autor",
-        "Type": "MiPrimerWebApi.Entidades.Autor",
+        "Type": "MiPrimerWebApi.Model.Autor",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "MiPrimerWebApi.Entidades.Autor",
+        "Type": "MiPrimerWebApi.Model.Autor",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "ContainingType": "MiPrimerWebApi.Controllers.AutoresController",
+    "ContainingType": "MiPrimerWebApi.Api.Controllers.AutoresController",
     "Method": "GetAutor",
     "RelativePath": "api/Autores/{id}",
     "HttpMethod": "GET",
@@ -61,7 +61,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "MiPrimerWebApi.Entidades.Autor",
+        "Type": "MiPrimerWebApi.Model.Autor",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "ContainingType": "MiPrimerWebApi.Controllers.AutoresController",
+    "ContainingType": "MiPrimerWebApi.Api.Controllers.AutoresController",
     "Method": "PutAutor",
     "RelativePath": "api/Autores/{id}",
     "HttpMethod": "PUT",
@@ -86,14 +86,14 @@
       },
       {
         "Name": "autor",
-        "Type": "MiPrimerWebApi.Entidades.Autor",
+        "Type": "MiPrimerWebApi.Model.Autor",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "MiPrimerWebApi.Controllers.AutoresController",
+    "ContainingType": "MiPrimerWebApi.Api.Controllers.AutoresController",
     "Method": "DeleteAutor",
     "RelativePath": "api/Autores/{id}",
     "HttpMethod": "DELETE",
@@ -109,115 +109,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "MiPrimerWebApi.Controllers.ValuesController",
-    "Method": "Get",
-    "RelativePath": "api/Values",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "MiPrimerWebApi.Controllers.ValuesController",
-    "Method": "Post",
-    "RelativePath": "api/Values",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "MiPrimerWebApi.Controllers.ValuesController",
-    "Method": "GetOne",
-    "RelativePath": "api/Values/{indice}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "indice",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "MiPrimerWebApi.Controllers.ValuesController",
-    "Method": "Put",
-    "RelativePath": "api/Values/{indice}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "indice",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "MiPrimerWebApi.Controllers.ValuesController",
-    "Method": "Delete",
-    "RelativePath": "api/Values/{indice}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "indice",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "MiPrimerWebApi.Routes.ValuesRoute",
+    "ContainingType": "MiPrimerWebApi.Api.Routes.ValuesRoute",
     "Method": "Get",
     "RelativePath": "minimalValues/",
     "HttpMethod": "GET",
@@ -236,7 +128,7 @@
     ]
   },
   {
-    "ContainingType": "MiPrimerWebApi.Routes.ValuesRoute",
+    "ContainingType": "MiPrimerWebApi.Api.Routes.ValuesRoute",
     "Method": "Post",
     "RelativePath": "minimalValues/",
     "HttpMethod": "POST",
@@ -255,7 +147,7 @@
     ]
   },
   {
-    "ContainingType": "MiPrimerWebApi.Routes.ValuesRoute",
+    "ContainingType": "MiPrimerWebApi.Api.Routes.ValuesRoute",
     "Method": "GetOne",
     "RelativePath": "minimalValues/{indice}",
     "HttpMethod": "GET",
@@ -280,7 +172,7 @@
     ]
   },
   {
-    "ContainingType": "MiPrimerWebApi.Routes.ValuesRoute",
+    "ContainingType": "MiPrimerWebApi.Api.Routes.ValuesRoute",
     "Method": "Put",
     "RelativePath": "minimalValues/{indice}",
     "HttpMethod": "PUT",
@@ -305,7 +197,7 @@
     ]
   },
   {
-    "ContainingType": "MiPrimerWebApi.Routes.ValuesRoute",
+    "ContainingType": "MiPrimerWebApi.Api.Routes.ValuesRoute",
     "Method": "Delete",
     "RelativePath": "minimalValues/{indice}",
     "HttpMethod": "DELETE",
@@ -330,7 +222,7 @@
     ]
   },
   {
-    "ContainingType": "MiPrimerWebApi.Routes.TodosRoute",
+    "ContainingType": "MiPrimerWebApi.Api.Routes.TodosRoute",
     "Method": "Get",
     "RelativePath": "Todos/",
     "HttpMethod": "GET",
@@ -349,7 +241,7 @@
     ]
   },
   {
-    "ContainingType": "MiPrimerWebApi.Routes.TodosRoute",
+    "ContainingType": "MiPrimerWebApi.Api.Routes.TodosRoute",
     "Method": "Post",
     "RelativePath": "Todos/",
     "HttpMethod": "POST",
@@ -358,7 +250,7 @@
     "Parameters": [
       {
         "Name": "todo",
-        "Type": "MiPrimerWebApi.Entidades.Todo",
+        "Type": "MiPrimerWebApi.Model.Todo",
         "IsRequired": true
       }
     ],
@@ -374,7 +266,7 @@
     ]
   },
   {
-    "ContainingType": "MiPrimerWebApi.Routes.TodosRoute",
+    "ContainingType": "MiPrimerWebApi.Api.Routes.TodosRoute",
     "Method": "GetOne",
     "RelativePath": "Todos/{id}",
     "HttpMethod": "GET",
@@ -400,7 +292,7 @@
     "EndpointName": "GetOne"
   },
   {
-    "ContainingType": "MiPrimerWebApi.Routes.TodosRoute",
+    "ContainingType": "MiPrimerWebApi.Api.Routes.TodosRoute",
     "Method": "Put",
     "RelativePath": "Todos/{id}",
     "HttpMethod": "PUT",
@@ -414,7 +306,7 @@
       },
       {
         "Name": "todo",
-        "Type": "MiPrimerWebApi.Entidades.Todo",
+        "Type": "MiPrimerWebApi.Model.Todo",
         "IsRequired": true
       }
     ],
@@ -430,7 +322,7 @@
     ]
   },
   {
-    "ContainingType": "MiPrimerWebApi.Routes.TodosRoute",
+    "ContainingType": "MiPrimerWebApi.Api.Routes.TodosRoute",
     "Method": "Delete",
     "RelativePath": "Todos/{id}",
     "HttpMethod": "DELETE",
@@ -453,26 +345,5 @@
     "Tags": [
       "Todos"
     ]
-  },
-  {
-    "ContainingType": "MiPrimerWebApi.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[MiPrimerWebApi.WeatherForecast, MiPrimerWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ],
-    "EndpointName": "GetWeatherForecast"
   }
 ]

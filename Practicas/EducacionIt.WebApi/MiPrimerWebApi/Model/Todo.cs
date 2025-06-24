@@ -1,4 +1,4 @@
-﻿namespace MiPrimerWebApi.Entidades
+﻿namespace MiPrimerWebApi.Model
 {
     public class Todo
     {

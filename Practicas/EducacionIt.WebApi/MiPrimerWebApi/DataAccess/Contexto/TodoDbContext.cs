@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using MiPrimerWebApi.Entidades;
+using MiPrimerWebApi.Model;
 
-namespace MiPrimerWebApi.Contexto
+namespace MiPrimerWebApi.DataAccess.Contexto
 {
     public class TodoDbContext : DbContext
     {

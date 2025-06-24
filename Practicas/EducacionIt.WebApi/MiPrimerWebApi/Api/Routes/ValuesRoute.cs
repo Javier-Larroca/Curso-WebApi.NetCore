@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace MiPrimerWebApi.Routes
+namespace MiPrimerWebApi.Api.Routes
 {
     public static class ValuesRoute
     {

@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using MiPrimerWebApi.Contexto;
-using MiPrimerWebApi.Entidades;
+using MiPrimerWebApi.DataAccess.Contexto;
+using MiPrimerWebApi.Model;
 
-namespace MiPrimerWebApi.Routes
+namespace MiPrimerWebApi.Api.Routes
 {
     public static class TodosRoute
     {
