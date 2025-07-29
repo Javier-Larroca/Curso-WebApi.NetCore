@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MiPrimerWebApi.Bussiness;
 using MiPrimerWebApi.Bussiness.BussinessExceptions;
+using MiPrimerWebApi.DTOs;
 using MiPrimerWebApi.Model;
 
 namespace MiPrimerWebApi.Api.Controllers
@@ -12,15 +13,18 @@ namespace MiPrimerWebApi.Api.Controllers
 
         // GET: api/Autores
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Autor>>> GetAutores()
+        public async Task<ActionResult<IEnumerable<AutorResponseDTO>>> GetAutores(
+            [FromQuery] int limit = 10,
+            [FromQuery] int page = 1
+            )
         {
-            var autores = await autoresService.GetAutores();
-            return Ok(autores);
+            var autores = await autoresService.GetAutores(limit, page);
+            return Ok(autores.Select(a=> a.ToResponse()));
         }
 
         // GET: api/Autores/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<Autor>> GetAutor(int id)
+        public async Task<ActionResult<AutorResponseDTO>> GetAutor([FromRoute] int id)
         {
             var autor = await autoresService.GetAutor(id);
 
@@ -29,17 +33,17 @@ namespace MiPrimerWebApi.Api.Controllers
                 return NotFound();
             }
 
-            return autor;
+            return autor.ToResponse();
         }
 
         // PUT: api/Autores/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutAutor(int id, Autor autor)
+        public async Task<IActionResult> PutAutor([FromRoute] int id, [FromBody] AutorRequestDTO autorDto)
         {
             try
             {
-                await autoresService.UpdateAutor(id, autor);
+                await autoresService.UpdateAutor(id, autorDto.ToAutor());
             }
             catch (BussinessException ex)
             {
@@ -64,16 +68,16 @@ namespace MiPrimerWebApi.Api.Controllers
         // POST: api/Autores
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<Autor>> PostAutor(Autor autor)
+        public async Task<ActionResult<AutorResponseDTO>> PostAutor([FromBody] AutorRequestDTO autorDto)
         {
-            var createdAutor = await autoresService.CreateAutor(autor);
+            var createdAutor = await autoresService.CreateAutor(autorDto.ToAutor());
 
-            return CreatedAtAction(nameof(GetAutor), new { id = autor.Id }, createdAutor);
+            return CreatedAtAction(nameof(GetAutor), new { id = createdAutor.Id }, createdAutor.ToResponse());
         }
 
         // DELETE: api/Autores/5
         [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteAutor(int id)
+        public async Task<IActionResult> DeleteAutor([FromRoute] int id)
         {
             try
             {

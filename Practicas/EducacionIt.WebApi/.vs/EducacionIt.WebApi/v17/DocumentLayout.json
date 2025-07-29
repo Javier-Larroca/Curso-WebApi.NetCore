@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\miprimerwebapi\\dtos\\autorrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\dtos\\autorrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\miprimerwebapi\\bussiness\\autoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\bussiness\\autoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\miprimerwebapi\\dataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\dataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\miprimerwebapi\\bussiness\\iautoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\bussiness\\iautoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\miprimerwebapi\\dataaccess\\contexto\\bibliotecadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\dataaccess\\contexto\\bibliotecadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\miprimerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\miprimerwebapi\\dataaccess\\dbinitializer\\databaseextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\dataaccess\\dbinitializer\\databaseextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\miprimerwebapi\\migrations\\bibliotecadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\migrations\\bibliotecadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\miprimerwebapi\\model\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\model\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\miprimerwebapi\\model\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\model\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\miprimerwebapi\\model\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\model\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\miprimerwebapi\\api\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\api\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,16 +25,25 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 86,
-          "SelectedChildIndex": 8,
+          "DockedHeight": 306,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutorRequestDTO.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\DTOs\\AutorRequestDTO.cs",
+              "RelativeDocumentMoniker": "MiPrimerWebApi\\DTOs\\AutorRequestDTO.cs",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\DTOs\\AutorRequestDTO.cs",
+              "RelativeToolTip": "MiPrimerWebApi\\DTOs\\AutorRequestDTO.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T00:02:17.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -62,120 +51,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BibliotecaDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Migrations\\BibliotecaDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "MiPrimerWebApi\\Migrations\\BibliotecaDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Migrations\\BibliotecaDbContextModelSnapshot.cs",
-              "RelativeToolTip": "MiPrimerWebApi\\Migrations\\BibliotecaDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T02:01:32.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DatabaseExtensions.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\DataAccess\\DbInitializer\\DatabaseExtensions.cs",
-              "RelativeDocumentMoniker": "MiPrimerWebApi\\DataAccess\\DbInitializer\\DatabaseExtensions.cs",
-              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\DataAccess\\DbInitializer\\DatabaseExtensions.cs",
-              "RelativeToolTip": "MiPrimerWebApi\\DataAccess\\DbInitializer\\DatabaseExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T01:54:39.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "MiPrimerWebApi\\Program.cs",
-              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Program.cs",
-              "RelativeToolTip": "MiPrimerWebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T01:53:59.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BibliotecaDbContext.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\DataAccess\\Contexto\\BibliotecaDbContext.cs",
-              "RelativeDocumentMoniker": "MiPrimerWebApi\\DataAccess\\Contexto\\BibliotecaDbContext.cs",
-              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\DataAccess\\Contexto\\BibliotecaDbContext.cs",
-              "RelativeToolTip": "MiPrimerWebApi\\DataAccess\\Contexto\\BibliotecaDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T01:13:20.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\DataAccess\\DbInitializer\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "MiPrimerWebApi\\DataAccess\\DbInitializer\\DbInitializer.cs",
-              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\DataAccess\\DbInitializer\\DbInitializer.cs",
-              "RelativeToolTip": "MiPrimerWebApi\\DataAccess\\DbInitializer\\DbInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T01:11:56.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "AutoresService.cs",
               "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Bussiness\\AutoresService.cs",
               "RelativeDocumentMoniker": "MiPrimerWebApi\\Bussiness\\AutoresService.cs",
               "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Bussiness\\AutoresService.cs",
               "RelativeToolTip": "MiPrimerWebApi\\Bussiness\\AutoresService.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAkwBQAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T01:03:09.163Z",
+              "WhenOpened": "2025-07-28T23:40:13.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Model\\Libro.cs",
-              "RelativeDocumentMoniker": "MiPrimerWebApi\\Model\\Libro.cs",
-              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Model\\Libro.cs",
-              "RelativeToolTip": "MiPrimerWebApi\\Model\\Libro.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IAutoresService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Bussiness\\IAutoresService.cs",
+              "RelativeDocumentMoniker": "MiPrimerWebApi\\Bussiness\\IAutoresService.cs",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Bussiness\\IAutoresService.cs",
+              "RelativeToolTip": "MiPrimerWebApi\\Bussiness\\IAutoresService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T23:40:39.649Z",
+              "WhenOpened": "2025-07-28T23:39:51.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Genero.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Model\\Genero.cs",
-              "RelativeDocumentMoniker": "MiPrimerWebApi\\Model\\Genero.cs",
-              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Model\\Genero.cs",
-              "RelativeToolTip": "MiPrimerWebApi\\Model\\Genero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Api\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "MiPrimerWebApi\\Api\\Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Api\\Controllers\\AutoresController.cs",
+              "RelativeToolTip": "MiPrimerWebApi\\Api\\Controllers\\AutoresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T23:33:00.8Z",
+              "WhenOpened": "2025-07-28T23:39:38.614Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 94,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Autor.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Model\\Autor.cs",
-              "RelativeDocumentMoniker": "MiPrimerWebApi\\Model\\Autor.cs",
-              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Model\\Autor.cs",
-              "RelativeToolTip": "MiPrimerWebApi\\Model\\Autor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T23:22:03.173Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

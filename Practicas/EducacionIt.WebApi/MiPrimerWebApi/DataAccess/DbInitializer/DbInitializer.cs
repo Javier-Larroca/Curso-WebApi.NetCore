@@ -23,6 +23,7 @@ namespace MiPrimerWebApi.DataAccess.DbInitializer
                     Nombre = "Stephen King",
                     FechaNacimiento = new DateTime(1950, 01, 01),
                     Email = "sk@gmail.com",
+                    Cuil = "1",
                     Libros = [
                         new() {
                             Nombre = "Carrie",
@@ -41,6 +42,7 @@ namespace MiPrimerWebApi.DataAccess.DbInitializer
                     Nombre = "J. K. Rowling",
                     FechaNacimiento = new DateTime(1960, 5, 2),
                     Email = "jkrowling@gmail.com",
+                    Cuil = "2",
                     Libros = [
                         new ()
                         {

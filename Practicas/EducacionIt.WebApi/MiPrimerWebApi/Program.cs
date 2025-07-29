@@ -17,6 +17,10 @@ builder.Services.AddDbContext<TodoDbContext>(
     options => options.UseSqlServer(builder.Configuration.GetConnectionString("TodoConnectionString"))
     );
 
+//builder.Services.AddDbContext<JsonplaceholderContext>(
+//    options => options.UseSqlite("")
+//    );
+
 builder.Services.AddScoped<IAutoresService, AutoresService>();
 
 builder.Services.AddControllers();

@@ -9,22 +9,23 @@ namespace MiPrimerWebApi.Bussiness
     public class AutoresService(BibliotecaDbContext db) : IAutoresService
     {
 
-        public async Task<IEnumerable<Autor>> GetAutores()
+        public async Task<IEnumerable<Autor>> GetAutores(int limit, int page)
         {
-            return await db.Autores.ToListAsync();
+            return await db.Autores
+                .AsNoTracking()
+                .OrderBy(a => a.Id)
+                .Skip((page - 1) * limit)
+                .Take(limit)
+                .ToListAsync();
         }
 
         public async Task<Autor?> GetAutor(int id)
         {
             return await db.Autores
+                .AsNoTracking()
                 .Include(a => a.Libros)
                 .ThenInclude(l => l.Generos)
                 .FirstOrDefaultAsync(a => a.Id == id);
-        }
-
-        private Task<bool> AutorExists(int id)
-        {
-            return db.Autores.AnyAsync(e => e.Id == id);
         }
 
         public async Task UpdateAutor(int id, Autor autor)
@@ -72,5 +73,16 @@ namespace MiPrimerWebApi.Bussiness
             db.Autores.Remove(autor);
             await db.SaveChangesAsync();
         }
+
+        private Task<bool> AutorExists(int id)
+        {
+            return db.Autores.AnyAsync(e => e.Id == id);
+        }
+
+        //private void QueryExtrania()
+        //{
+        //    //db.Database.ExecuteSql("ALTER TABLE");
+        //    db.Database.SqlQueryRaw<List<Autor>>("Select * From Autores");
+        //}
     }
 }

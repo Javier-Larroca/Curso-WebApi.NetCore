@@ -1,8 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations;
 
 namespace MiPrimerWebApi.Model
 {
-    public class Autor
+    [Index(nameof(Email), IsUnique = true)]
+    [Index(nameof(Cuil), IsUnique = true)]
+    public class Autor //: AuditableEntity
     {
         [Key]
         public int Id { get; set; }
@@ -14,6 +17,9 @@ namespace MiPrimerWebApi.Model
         [MaxLength(50)]
         [EmailAddress]
         public string? Email { get; set; }
+
+        [StringLength(11)]
+        public string Cuil { get; set; }
         public DateTime? FechaNacimiento { get; set; }
         public ICollection<Libro> Libros { get; set; }
     }
