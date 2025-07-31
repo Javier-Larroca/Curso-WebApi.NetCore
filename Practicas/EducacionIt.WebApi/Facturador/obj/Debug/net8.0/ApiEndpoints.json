@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Facturador.Controllers.FacturaController",
+    "Method": "CreateFactura",
+    "RelativePath": "api/Factura",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "factura",
+        "Type": "Facturador.DTOs.FacturaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

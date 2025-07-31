@@ -35,5 +35,41 @@ namespace MiPrimerWebApi.DTOs
                 }).ToList() : []
             };
         }
+
+        public static Libro ToLibro(this LibroRequestDTO dto)
+        {
+            return new Libro
+            {
+                Nombre = dto.Nombre,
+                Descripcion = dto.Descripcion,
+                FechaPublicacion = dto.FechaPublicacion,
+                Autor = new Autor
+                {
+                    Id = dto.AutorId
+                },
+                Generos = dto.Generos.Select(g => new Genero
+                {
+                    Codigo = g
+                }).ToList()
+
+            };
+        }
+
+        public static LibroResponseDTO ToResponse(this Libro libro)
+        {
+            return new LibroResponseDTO
+            {
+                Id = libro.Id,
+                Nombre = libro.Nombre,
+                FechaPublicacion = libro.FechaPublicacion,
+                Descripcion = libro.Descripcion,
+                Autor = new LibroAutorResponseDTO
+                {
+                    Id = libro.Autor.Id,
+                    Nombre = libro.Autor.Nombre
+                },
+                Generos = libro.Generos
+            };
+        }
     }
 }

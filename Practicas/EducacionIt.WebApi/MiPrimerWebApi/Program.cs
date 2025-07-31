@@ -22,6 +22,7 @@ builder.Services.AddDbContext<TodoDbContext>(
 //    );
 
 builder.Services.AddScoped<IAutoresService, AutoresService>();
+builder.Services.AddScoped<ILibrosService, LibrosService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
