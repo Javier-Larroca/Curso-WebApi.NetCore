@@ -1,4 +1,5 @@
-﻿using MiPrimerWebApi.DataAccess.Contexto;
+﻿using Bogus;
+using MiPrimerWebApi.DataAccess.Contexto;
 using MiPrimerWebApi.Model;
 
 namespace MiPrimerWebApi.DataAccess.DbInitializer
@@ -57,5 +58,21 @@ namespace MiPrimerWebApi.DataAccess.DbInitializer
             context.Autores.AddRange(autores);
             context.SaveChanges();
         }
+
+        //internal static class Fakerconstants
+        //{
+        //    public const int SEED = 42;
+        //    public const string LOCALE = "es";
+        //}
+        //internal class GeneroGenerator : Faker<Genero>
+        //{
+        //    public GeneroGenerator() : base (locale: Fakerconstants.LOCALE)
+        //    {
+        //        string[] generos = ["Fantasia", "Terror"];
+        //        UseSeed(Fakerconstants.SEED)
+        //            .RuleFor(x=> x.Codigo, x => x.PickRandom(generos))
+        //            .RuleFor(x=> x.Nombre, x=> x.)
+        //    }
+        //}
     }
 }

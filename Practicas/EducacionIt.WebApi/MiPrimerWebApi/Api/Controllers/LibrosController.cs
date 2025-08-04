@@ -1,16 +1,21 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using MiPrimerWebApi.Bussiness;
 using MiPrimerWebApi.Bussiness.BussinessExceptions;
 using MiPrimerWebApi.DTOs;
+using MiPrimerWebApi.Middlewares;
 
 namespace MiPrimerWebApi.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [ServiceFilter<LoggerActionFilter>]
+    [Authorize]
     public class LibrosController(ILibrosService librosService) : ControllerBase
     {
         [HttpGet]
+        [AllowAnonymous]
         public async Task<ActionResult<IEnumerable<LibroResponseDTO>>> GetLibros(
             [FromQuery] int limit = 10,
             [FromQuery] int page = 1

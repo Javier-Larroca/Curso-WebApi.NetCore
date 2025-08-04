@@ -325,3 +325,5 @@ C:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\EducacionIt.WebApi\MiPr
 C:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\EducacionIt.WebApi\MiPrimerWebApi\obj\Debug\net8.0\MiPrimerWebApi.pdb
 C:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\EducacionIt.WebApi\MiPrimerWebApi\obj\Debug\net8.0\MiPrimerWebApi.genruntimeconfig.cache
 C:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\EducacionIt.WebApi\MiPrimerWebApi\obj\Debug\net8.0\ref\MiPrimerWebApi.dll
+C:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\EducacionIt.WebApi\MiPrimerWebApi\bin\Debug\net8.0\Bogus.dll
+C:\Proyectos\Educacion IT\Curso-WebApi.NetCore\Practicas\EducacionIt.WebApi\MiPrimerWebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

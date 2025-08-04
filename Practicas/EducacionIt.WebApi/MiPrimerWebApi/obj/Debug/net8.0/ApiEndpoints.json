@@ -240,6 +240,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "MiPrimerWebApi.Api.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "MiPrimerWebApi.Api.Controllers.AuthController\u002BUserLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MiPrimerWebApi.Api.Routes.ValuesRoute",
     "Method": "Get",
     "RelativePath": "minimalValues/",

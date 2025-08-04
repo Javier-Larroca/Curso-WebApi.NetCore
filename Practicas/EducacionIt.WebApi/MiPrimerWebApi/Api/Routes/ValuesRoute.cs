@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MiPrimerWebApi.Middlewares;
 
 namespace MiPrimerWebApi.Api.Routes
 {
@@ -8,7 +9,8 @@ namespace MiPrimerWebApi.Api.Routes
         public static WebApplication MapValuesRoutes(this WebApplication app)
         {
             var group = app.MapGroup("minimalValues")
-                .WithTags("Minimal Values");
+                .WithTags("Minimal Values")
+                .AddEndpointFilter<MinimalLoggerFilter>();
 
             group.MapGet("/", Get);
             group.MapPost("/", Post);

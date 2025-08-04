@@ -1,8 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using MiPrimerWebApi.Bussiness;
 using MiPrimerWebApi.Bussiness.BussinessExceptions;
 using MiPrimerWebApi.DTOs;
-using MiPrimerWebApi.Model;
+using MiPrimerWebApi.Middlewares;
 
 namespace MiPrimerWebApi.Api.Controllers
 {
@@ -68,6 +69,7 @@ namespace MiPrimerWebApi.Api.Controllers
         // POST: api/Autores
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
+        [Authorize]
         public async Task<ActionResult<AutorResponseDTO>> PostAutor([FromBody] AutorRequestDTO autorDto)
         {
             var createdAutor = await autoresService.CreateAutor(autorDto.ToAutor());

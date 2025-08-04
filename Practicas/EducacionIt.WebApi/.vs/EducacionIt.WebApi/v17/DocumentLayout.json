@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C78DBA74-BA33-4248-88A6-DCF2D97814D4}|Facturador\\Facturador.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\facturador\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78DBA74-BA33-4248-88A6-DCF2D97814D4}|Facturador\\Facturador.csproj|solutionrelative:facturador\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\miprimerwebapi\\api\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\api\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C78DBA74-BA33-4248-88A6-DCF2D97814D4}|Facturador\\Facturador.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\facturador\\validators\\facturavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78DBA74-BA33-4248-88A6-DCF2D97814D4}|Facturador\\Facturador.csproj|solutionrelative:facturador\\validators\\facturavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\miprimerwebapi\\api\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\api\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C78DBA74-BA33-4248-88A6-DCF2D97814D4}|Facturador\\Facturador.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\facturador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78DBA74-BA33-4248-88A6-DCF2D97814D4}|Facturador\\Facturador.csproj|solutionrelative:facturador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\miprimerwebapi\\middlewares\\loggeractionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\middlewares\\loggeractionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C78DBA74-BA33-4248-88A6-DCF2D97814D4}|Facturador\\Facturador.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\facturador\\dtos\\facturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78DBA74-BA33-4248-88A6-DCF2D97814D4}|Facturador\\Facturador.csproj|solutionrelative:facturador\\dtos\\facturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\miprimerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\miprimerwebapi\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|c:\\proyectos\\educacion it\\curso-webapi.netcore\\practicas\\educacionit.webapi\\miprimerwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FD3DE6D-24F3-4A21-8FA7-C46BFB1ECF1A}|MiPrimerWebApi\\MiPrimerWebApi.csproj|solutionrelative:miprimerwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 306,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +46,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FacturaDTO.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\Facturador\\DTOs\\FacturaDTO.cs",
-              "RelativeDocumentMoniker": "Facturador\\DTOs\\FacturaDTO.cs",
-              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\Facturador\\DTOs\\FacturaDTO.cs",
-              "RelativeToolTip": "Facturador\\DTOs\\FacturaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T15:11:35.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\Facturador\\Program.cs",
-              "RelativeDocumentMoniker": "Facturador\\Program.cs",
-              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\Facturador\\Program.cs",
-              "RelativeToolTip": "Facturador\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T14:29:13.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FacturaValidator.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\Facturador\\Validators\\FacturaValidator.cs",
-              "RelativeDocumentMoniker": "Facturador\\Validators\\FacturaValidator.cs",
-              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\Facturador\\Validators\\FacturaValidator.cs",
-              "RelativeToolTip": "Facturador\\Validators\\FacturaValidator.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwFIAAAB4AAAAAAAAAA==",
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Api\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "MiPrimerWebApi\\Api\\Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Api\\Controllers\\AutoresController.cs",
+              "RelativeToolTip": "MiPrimerWebApi\\Api\\Controllers\\AutoresController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwEcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T14:31:38.675Z",
+              "WhenOpened": "2025-08-04T20:25:46.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FacturaController.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\Facturador\\Controllers\\FacturaController.cs",
-              "RelativeDocumentMoniker": "Facturador\\Controllers\\FacturaController.cs",
-              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\Facturador\\Controllers\\FacturaController.cs",
-              "RelativeToolTip": "Facturador\\Controllers\\FacturaController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Api\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "MiPrimerWebApi\\Api\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Api\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "MiPrimerWebApi\\Api\\Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T14:09:35.249Z",
+              "WhenOpened": "2025-08-04T20:25:38.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoggerActionFilter.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Middlewares\\LoggerActionFilter.cs",
+              "RelativeDocumentMoniker": "MiPrimerWebApi\\Middlewares\\LoggerActionFilter.cs",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Middlewares\\LoggerActionFilter.cs",
+              "RelativeToolTip": "MiPrimerWebApi\\Middlewares\\LoggerActionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:13:55.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MiPrimerWebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\appsettings.Development.json",
+              "RelativeToolTip": "MiPrimerWebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-04T20:12:08.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MiPrimerWebApi\\Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MiPrimerWebApi\\Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:09:42.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "MiPrimerWebApi\\Program.cs",
+              "ToolTip": "C:\\Proyectos\\Educacion IT\\Curso-WebApi.NetCore\\Practicas\\EducacionIt.WebApi\\MiPrimerWebApi\\Program.cs",
+              "RelativeToolTip": "MiPrimerWebApi\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T19:32:00.178Z",
               "EditorCaption": ""
             }
           ]
@@ -94,6 +128,10 @@
           "DockedHeight": 94,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
